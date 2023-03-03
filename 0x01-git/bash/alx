@@ -1,2 +1,6 @@
 #!/bin/bash 
+<<<<<<< HEAD
 echo ALX school is so cool
+=======
+echo alx
+>>>>>>> f1e57c06133e282c124eaa4c6a542f7f58f30e9e
